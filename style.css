@@ -1,0 +1,56 @@
+@import url("https://moyaiu.github.io/OldCord/src/main.css");
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600;700&display=swap');
+
+
+.message-2qnXI6{
+    border-radius: 6px;
+
+}
+#floating-editor-window{
+    border-radius: 6px;
+}
+
+
+.peopleList-3c4jOR, .scroller-2ZPeAD{
+    background-image: url("https://media.discordapp.net/attachments/733410977415954593/881220691758809168/why_are_you_looking_at_the_code.png?width=1193&height=676");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.scroller-1JbKMe {
+    box-shadow: inset 0 0 10px #000000;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("https://media.discordapp.net/attachments/733410977415954593/881223911763746826/kiwicord_dm_background_image.jpg?width=1059&height=676");
+}
+
+
+.scroller-2LSbBU {
+    background-image: url("https://media.discordapp.net/attachments/733410977415954593/881220691758809168/why_are_you_looking_at_the_code.png?width=1193&height=676");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.scroller-1Bvpku {
+    background-image: url("https://media.discordapp.net/attachments/733410977415954593/881223911763746826/kiwicord_dm_background_image.jpg?width=1059&height=676");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 12px;
+}
+
+.expandedFolderBackground-1cujaW {
+    opacity: 1;
+}
+
+.content-3QAtGj {
+    color: #FFFF;
+}
+
+.markup-2BOw-j, .timestamp-3ZCmNB  {
+    font-family: "Nunito", "sans-serif"
+
+}
