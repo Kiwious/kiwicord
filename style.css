@@ -11,8 +11,15 @@
 }
 
 
-.peopleList-3c4jOR, .scroller-2ZPeAD{
+.peopleList-3c4jOR{
     background-image: url("https://media.discordapp.net/attachments/733410977415954593/881220691758809168/why_are_you_looking_at_the_code.png?width=1193&height=676");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.scroller-2ZPeAD{
+    background-image: url("https://media.discordapp.net/attachments/733410977415954593/881223911763746826/kiwicord_dm_background_image.jpg?width=1059&height=676");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -28,7 +35,7 @@
 
 
 .scroller-2LSbBU {
-    background-image: url("https://media.discordapp.net/attachments/733410977415954593/881220691758809168/why_are_you_looking_at_the_code.png?width=1193&height=676");
+    background-image: url("https://media.discordapp.net/attachments/733410977415954593/881245751701798932/kiwi_wallpaper.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -53,4 +60,8 @@
 .markup-2BOw-j, .timestamp-3ZCmNB  {
     font-family: "Nunito", "sans-serif"
 
+}
+
+.itemCard-v9viV7 {
+    opacity: 0.5;
 }
